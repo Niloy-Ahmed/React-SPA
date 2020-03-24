@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    color: blue;
+    height: 50px;
+
+}
+h1:hover{
+    color: darkorange;
+}
+img{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+  
+}
+nav{
+    text-align: center;
+    font-size: 30px;
+    margin: 5px;
+background-color: black;
+}
+nav a{
+    text-decoration: none;
+   margin-right: 20px;
+    color: white;
+   
+
+}
+nav a:hover{
+    background-color:gray;
+    color: lightsalmon;
+    border-radius: 10px;
+
+
+}
+.header-logo{
+    text-align: center;
+}

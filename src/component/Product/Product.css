@@ -1,0 +1,24 @@
+.product{
+    text-align: center;
+   border-bottom: 1px solid lightgray;
+   padding: 5px;
+   margin-bottom: 5px;
+}
+.main-button{
+    background-color:blue;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: lightgreen;
+    color:BLACK;
+
+}
+img{
+    height:250px;
+  width: 50%;
+    border-radius: 150px;
+}
