@@ -10,8 +10,8 @@ import Count from '../Count/Count';
 
 const Shop = () => {
     // console.log(fakeData)  
-    const first15 = fakeData.slice(0,15);
-    const [products, setProducts]= useState(first15);
+    const first20 = fakeData.slice(0,20);
+    const [products, setProducts]= useState(first20);
 
     const [cart, setCart] = useState([]);
 

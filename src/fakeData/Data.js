@@ -152,6 +152,52 @@ const data =[
     YearlyIncome: "25,000",
     image :img11,
   },
+  {
+    id: 16,
+    name: "Ervin Howell",
+    username: "Antonette",
+    email: "Shanna@melissa.tv",
+    phone: "010-692-6593 x09125",
+    YearlyIncome: "12,000",
+    image :img2
+  },
+  {
+    id: 17,
+    name: "Ervin Howell",
+    username: "Antonette",
+    email: "Shanna@melissa.tv",
+    phone: "010-692-6593 x09125",
+    YearlyIncome: "12,000",
+    image :img7
+  },
+  {
+    id: 18,
+    name: "Ervin Howell",
+    username: "Antonette",
+    email: "Shanna@melissa.tv",
+    phone: "010-692-6593 x09125",
+    YearlyIncome: "12,000",
+    image :img9
+  },
+  {
+    id: 19,
+    name: "Ervin Howell",
+    username: "Antonette",
+    email: "Shanna@melissa.tv",
+    phone: "010-692-6593 x09125",
+    YearlyIncome: "12,000",
+    image :img12
+  },
+  {
+    id: 20,
+    name: "Ervin Howell",
+    username: "Antonette",
+    email: "Shanna@melissa.tv",
+    phone: "010-692-6593 x09125",
+    YearlyIncome: "12,000",
+    image :img11,
+  },
+ 
 ]
 
 export default data;
